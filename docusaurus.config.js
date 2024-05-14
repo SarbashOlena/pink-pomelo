@@ -63,7 +63,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
+      // Replace with your project's             social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'My Super Pinky Site',
@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog',              position: 'left'},
            {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
